@@ -1,4 +1,4 @@
-# app-burgos
+# Componentes vue cdn a vue cli Burgos
 
 ## Project setup
 ```
